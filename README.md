@@ -1,16 +1,5 @@
 # Medical-Data-Analysis
-COMPETENCIES
-4030.03.01 : Predicting Obstacles to Cleaning Data
 
-The graduate predicts potential obstacles in data analysis based on the quality of the data provided.
-
-4030.03.02 : Preparing Data for Analysis
-
-The graduate prepares data for analysis to address a business need.
-
-4030.03.03 : Writing code to Clean data
-
-The graduate writes reusable code to manipulate and clean data in preparation for analysis.
 
 INTRODUCTION
 In a previous course you used SQL methods to collect data for analysis and to support decision-making processes. The next step involves preparing the data for analysis, a process known as data cleaning. You will explore various graphs and statistics to identify outliers, consider various methods to handle missing data, such as imputation, and explore a basic use of principal component analysis (PCA) for data reduction of a set of variables.
